@@ -1,0 +1,2 @@
+('training time:', 0.668, 's')
+('predition time:', 0.093, 's')
