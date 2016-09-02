@@ -1,0 +1,4 @@
+# percentile = 10
+{'number of features': 3785, 'accuracy': 0.97724687144482369}
+# percentile = 1
+{'number of features': 379, 'accuracy': 0.9670079635949943}

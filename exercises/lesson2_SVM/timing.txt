@@ -1,0 +1,48 @@
+# Full dataset
+
+('training time:', 136.744, 's')
+('predition time:', 14.576, 's')
+(array([0, 0, 1, ..., 1, 0, 0]), 0.98407281001137659)
+
+# 1% of original dataset with Linear
+('training time:', 0.075, 's')
+('predition time:', 0.82, 's')
+(array([0, 1, 1, ..., 1, 0, 1]), 0.88452787258248011)
+
+# 1% of original dataset with RBF and C = 1
+('training time:', 0.086, 's')
+('predition time:', 0.923, 's')
+(array([0, 1, 1, ..., 1, 1, 1]), 0.61604095563139927)
+
+# 1% of original dataset with RBF and C = 10
+('training time:', 0.084, 's')
+('predition time:', 0.912, 's')
+(array([0, 1, 1, ..., 1, 1, 1]), 0.61604095563139927)
+
+# 1% of original dataset with RBF and C = 100
+('training time:', 0.085, 's')
+('predition time:', 0.927, 's')
+(array([0, 1, 1, ..., 1, 1, 1]), 0.61604095563139927)
+
+# 1% of original dataset with RBF and C = 1000
+('training time:', 0.083, 's')
+('predition time:', 0.883, 's')
+(array([0, 1, 1, ..., 1, 0, 1]), 0.82138794084186573)
+
+# 1% of original dataset with RBF and C = 10000
+('training time:', 0.079, 's')
+('predition time:', 0.726, 's')
+(array([0, 1, 1, ..., 1, 0, 1]), 0.89249146757679176)
+
+# full dataset with RBF and C = 10000
+('training time:', 90.407, 's')
+('predition time:', 9.119, 's')
+(array([0, 0, 1, ..., 1, 0, 0]), 0.99089874857792948)
+
+# results
+('training time:', 93.801, 's')
+('predition time:', 9.543, 's')
+(array([0, 0, 1, ..., 1, 0, 0]), 0.99089874857792948)
+0
+(1, 0, 1)
+(1758, 877, 881)
